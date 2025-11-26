@@ -1,5 +1,5 @@
 numbers_list = []
-user_input = input("Enter a number (or just press Enter to quit): ")
+user_input = input("Enter a number (just press Enter key to quit): ")
 while user_input != "":
     number = int(user_input)
     numbers_list.append(number)
