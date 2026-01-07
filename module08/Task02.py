@@ -15,6 +15,6 @@ car.accelerate(30)
 car.accelerate(70)
 car.accelerate(50)
 
-print(f"crrent speed: {car.current_speed}")
+print(f"current speed: {car.current_speed}")
 car.accelerate(-200)
 print(f"final speed: {car.current_speed}")
